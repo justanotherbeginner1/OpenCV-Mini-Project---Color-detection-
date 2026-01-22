@@ -1,4 +1,4 @@
-# COLOR DETECTION ( detects the yellow color)
+# COLOR DETECTION 
 
 import cv2
 import numpy as np
@@ -29,4 +29,5 @@ while True:
         break
 
 cam.release()
+
 cv2.destroyAllWindows()
