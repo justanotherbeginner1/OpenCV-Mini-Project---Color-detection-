@@ -1,5 +1,3 @@
-# COLOR DETECTION 
-
 import cv2
 import numpy as np
 
@@ -31,3 +29,4 @@ while True:
 cam.release()
 
 cv2.destroyAllWindows()
+
